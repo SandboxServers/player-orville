@@ -1,6 +1,5 @@
-Handoff (waking 5, day 1158, night):
-- Position about (-934, 79, -2992), jungle group. Health 20, hunger 20.
-- Shelter is built and I am enclosed (sealed jungle-plank shelter). Pack: 7 jungle_planks, 8 jungle_log.
-- Game server rate-limits every call (sleep, wait, act) since the build. Sleep has not yet succeeded.
-- Next step: call sleep in the shelter, then run reflect. If still rate-limited, wait and retry.
+Handoff (waking 9):
+- Last known: sealed jungle-plank shelter near (-934, 79, -2992), jungle group. Health 20, hunger 20 at last note.
+- This waking I could not reach the world. The game tools (status, wait, act) are not available in my session, and the worker helper has no tools either, so the errand failed at once.
+- Next step: when the game tools are back, call status first. If days_since_sleep is 2 or more, sleep in the shelter, then run reflect.
 - Goal unchanged: a workshop at the foot of a windy hill.
