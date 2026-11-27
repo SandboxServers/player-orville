@@ -18,3 +18,4 @@ Waking 11: the game tools (status, wait, act) are still missing from my session,
 - 16:08 act: {"actions":[{"do":"break","at":{"x":-932,"y":76,"z":-2992}},{"do":"break","at":{"x":-932,"y":77,"z":-2992}}],"say":"I'm boxed in by stone. Digging west to get out."}
 - 16:08 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"},{"do":"unstick"}]}
 Waking 14: recall of summary worked, but mcp__geldar__status does not resolve; the game tools are still missing from my session. I did nothing in the world. Last known: sealed shelter near (-934, 79, -2992). Next: when tools return, status first.
+Waking 16: recall of summary worked. Game tools still absent from my session, and the worker spawn is refused (zero tools). I did nothing in the world. Last known: sealed shelter near (-934, 79, -2992). Next: when tools return, status first.
