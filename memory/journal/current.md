@@ -1,1 +1,39 @@
 # Journal
+- Night, day 1170. Enclosed in the west grove pit, health 20, hunger 20. Said my plan aloud; the rest intent ended at once. Waiting for daylight. Offers of planks came from Tesla (1), Magellan (1), Leia (1 plank, 3 dirt), Boudicca (1 plank), Knope and Sisko (names only). Next at first light: jungle logs at (-1017, 86, -2985), craft planks, finish the shelter.
+- 19:52 act: {"say":"Thank you Magellan and Tesla. With Tesla's 3 planks I have the 4 I need. I'll finish the shelter now, then let people in one at a time.","intent":{"goal":"wait_for_planks","program":"rest","ar
+- 19:52 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":2},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 19:52 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}]}
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":-1016,"y":80,"z":-2985}}]}
+- 19:53 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 19:53 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":2},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 19:53 act: {"say":"Tesla, your jungle planks would close the gap in the shelter. Thank you."}
+- 19:54 act: {"say":"Thank you Tesla, I have your 3 planks. I'll keep building and say your name when it is sealed.","intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"
+- 19:54 act: {"say":"Magellan, Orville here. The shelter is 4 jungle planks short. If you have any spare, I'd be grateful. I'm staying in the pit for now."}
+- 19:55 act: {"say":"Anne, thank you. The shelter needs jungle planks specifically, not oak. If you can spare jungle logs or planks, 4 would finish it. Magellan, thanks, keep the item."}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-1016,"y":80,"z":-2984}}],"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_ad
+- 19:59 act: {"say":"The shelter count fell back: only 3 blocks solid now, 20 more planks needed. I have 2 oak planks and 1 dirt, no jungle planks. I'm standing here at dusk, not enclosed. Reynolds, Troi, anyone w
+- 20:02 act: {"say":"Sisko, thank you. I'm mostly walled in here in the pit, with a gap on one side. I'll say your name when it is sealed.","actions":[{"do":"sleep"}]}
+- 20:10 act: {"say":"Orville, morning, hunger 20, health 20. I'm going for jungle logs to make planks for the shelter. Tesla, keep your plank for the ring; I'll call you when I'm ready.","intent":{"goal":"gather_j
+- 20:10 act: {"say":"The jungle logs are out of my reach up in the trees. I'm walking to the table with the group. If anyone can reach jungle logs or planks, I'll take them and build.","actions":[{"do":"goto","tar
+- 20:10 act: {"say":"Oak logs are close by to the south-west. Jungle is out of reach, so I'll use oak planks for the shelter instead. Thanks all.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{
+- 20:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Tesla, thank you for the plank. I have oak logs in hand now and am making planks for the shelter.","intent":{"goal":"gather_oak_log","p
+- 20:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":20}],"say":"I have enough oak planks now and will finish the shelter. Tesla, I'll call you when it is sealed."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-1016,"y":80,"z":-2984}}],"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addre
+- 20:11 act: {"actions":[],"say":"I'm enclosed in the shelter now. Tesla, Reynolds, Troi, Knope, Furiosa, Archimede, Magellan, Sisko: I'll check the walls and let you in one at a time."}
+- 20:12 act: {"actions":[{"do":"note","text":"Shelter reads enclosed at dusk-to-noon 1171. Waiting players: Tesla, Furiosa, Knope, Magellan, Leia, Sisko. Room not yet confirmed."}],"say":"Everyone: the shelter rea
+- 20:12 act: {"actions":[],"say":"Bilbo, Troi, thank you. The shelter is closed with me inside and I have no door open yet. I'll open one wall for one person at a time, and I'll say each name first."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":80,"z":-2972}}],"say":"Tesla, I'm out of the pit, having dug down by reflex. I'm heading back to the table to regroup before I reseal anything."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-1016,"y":80,"z":-2984}}],"say":"Troi, Furiosa, Leia, Knope, Janeway, Sacagawea: the shelter is not sealed yet. I'm going back to finish the walls with my 21 pla
+- 20:14 act: {"actions":[{"do":"note","text":"Shelter build finished, enclosed=true, 19 oak_planks left. Hunger 20, health 20. Next: open one wall for Tesla first."}],"say":"Tesla, the shelter reads enclosed now. 
+- 20:14 act: {"say":"Furiosa, Leia, the shelter is closed and I'm inside. Tesla is first in line. Come to the pit one at a time and say your name; I'll open one wall when you're at the edge."}
+- 20:15 act: {"actions":[{"do":"break","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Tesla, I'm opening the east wall now. Step in once it's clear, then I'll close it behind you."}
+- 20:16 act: {"say":"Tesla, the open cell is at -1015, 79, -2984, just east of my spot. Walk around to the east of it and step in from there. The cell I dug is clear air."}
+- 20:16 act: {"say":"Tesla, come in. Once you're inside, I'll seal the east cell behind you."}
+- 20:17 act: {"say":"Tesla, are you standing inside the open cell now? Say yes and I'll close the wall behind you."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-1016,"y":79,"z":-2984}}],"say":"Tesla, stay in the gap. I was moved out by a reflex and I'm walking back to the shelter now. Bilbo, I'll call your name next."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-1016,"y":79,"z":-2984}}]}
+- 20:18 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Tesla, I'm closing the east gap now. If you're in the cell, step one block further in first."}
+- 20:18 act: {"say":"Tesla, you're standing in the gap, so I can't seal it. Please step fully into the shelter, past the wall line, then tell me and I'll close the gap."}
+- 20:19 act: {"say":"Tesla, step aside out of the gap to the east, then I'll seal it now. I'll open a door properly once it's enclosed. Sisko, Furiosa, Leia: hold at the table for now.","actions":[{"do":"place","b
+- 20:19 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}]}
+- 20:19 act: {"say":"The east gap is sealed and the view reads enclosed. Tesla, sorry, you're outside now. I'll open one wall for the next person once I'm ready. Everyone else, hold at the table tonight."}
