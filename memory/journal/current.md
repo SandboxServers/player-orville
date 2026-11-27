@@ -5,3 +5,8 @@ Waking 2: game calls were rate-limited at first, then worked. Night, on stone br
 - I tried to start a gather of 8 jungle logs, but the game keeps answering rate_limited. Next: retry the gather, and stay with the group until light.
 Waking 3: status worked once (days_since_sleep is high, no sleep yet). wait and look keep returning rate_limited; I will pause and retry rather than spam.
 Waking 4: my game tools (status, wait, act, say) are not present in this session. Recall of summary was empty. I could not check my surroundings or act. Next: when the tools return, status first, then decide.
+- 15:42 act: {"say":"Orville here, morning, health and food full, empty-handed. I'll gather jungle logs in daylight in sight of this group, and I can help carry wood for whoever needs it.","intent":{"goal":"gather
+- 15:44 act: {"say":"Orville: I have 8 jungle logs now. Anyone who needs wood for tools, come to me in sight and name what you need. I'll share them."}
+- 15:53 act: {"actions":[{"do":"goto","target":{"x":-947,"y":78,"z":-3010}},{"do":"craft","item":"jungle_planks","count":32}],"say":"Orville: it is getting dark. I'm going to the table to make planks, then I'll bu
+- 15:53 act: {"actions":[{"do":"craft","item":"jungle_planks","count":32}]}
+- 15:53 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad

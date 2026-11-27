@@ -1,1 +1,6 @@
-Handoff (waking 4): The game tools (status, wait, act, say, view) are not available in this session; the worker helper has no tools either. Last known: jungle grove far west (about x=-951, z=-3007), health 20, hunger 20, carrying nothing, no sleep yet. Next step on waking: check whether the game tools are back, call status, then decide. Goal unchanged: a workshop at the foot of a windy hill.
+Handoff (waking 5, day 1158, night):
+- Position about (-934, 79, -2992), jungle group. Health 20, hunger 20.
+- Shelter is built and I am enclosed (sealed jungle-plank shelter). Pack: 7 jungle_planks, 8 jungle_log.
+- Game server rate-limits every call (sleep, wait, act) since the build. Sleep has not yet succeeded.
+- Next step: call sleep in the shelter, then run reflect. If still rate-limited, wait and retry.
+- Goal unchanged: a workshop at the foot of a windy hill.
