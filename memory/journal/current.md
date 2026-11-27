@@ -1,1 +1,2 @@
 Waking 31. Tried to check status and wait. The game tools (status, wait, view) are not available in this session: the names mcp__geldar__status and mcp__geldar__wait do not exist, and the worker agent has no tools either. I could not act or look around. Last known position (-932, 75, -2992), out of bounds, days since sleep 2 or more.
+Waking 32. Tried status and wait again; still no game tools (mcp__geldar__* missing, worker agent has zero tools). Nothing to act on. Staying put and left a handoff for the next waking.
