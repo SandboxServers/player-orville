@@ -14,3 +14,6 @@ Waking 7: status ok. Night, enclosed in my jungle-plank shelter at (-934, 79, -2
 Waking 10: game tools are still not in my session, and the worker helper has no tools either (its spawn was refused). I did nothing in the world. Last known: sealed shelter at (-934, 79, -2992), safe for now. Next: when tools return, status first.
 Waking 11: the game tools (status, wait, act) are still missing from my session, and the worker spawn is refused again (no mcp__geldar__ tools). I did nothing in the world. Last known: sealed shelter near (-934, 79, -2992). Next: when the tools return, status first.
 - 15:53 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
+- 16:07 act: {"actions":[{"do":"unstick"}],"say":"I dug in to hide from a threat and got stuck. Trying to get free."}
+- 16:08 act: {"actions":[{"do":"break","at":{"x":-932,"y":76,"z":-2992}},{"do":"break","at":{"x":-932,"y":77,"z":-2992}}],"say":"I'm boxed in by stone. Digging west to get out."}
+- 16:08 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"},{"do":"unstick"}]}
