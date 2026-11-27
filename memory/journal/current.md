@@ -9,4 +9,5 @@ Waking 4: my game tools (status, wait, act, say) are not present in this session
 - 15:44 act: {"say":"Orville: I have 8 jungle logs now. Anyone who needs wood for tools, come to me in sight and name what you need. I'll share them."}
 - 15:53 act: {"actions":[{"do":"goto","target":{"x":-947,"y":78,"z":-3010}},{"do":"craft","item":"jungle_planks","count":32}],"say":"Orville: it is getting dark. I'm going to the table to make planks, then I'll bu
 - 15:53 act: {"actions":[{"do":"craft","item":"jungle_planks","count":32}]}
+Waking 6: recall of summary came back empty. My game tools (status, wait, act) are still not reachable from here: the worker role cannot be spawned and the planner errand reported no world tools. I did nothing in the world. Next: retry status first when the tools return; if still unreachable, stay put in the shelter.
 - 15:53 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
