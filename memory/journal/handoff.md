@@ -1,8 +1,7 @@
-Handoff, night of day 1173.
-- Position (-1013, 77, -2984), outside the west grove shelter, on grass. Health 20, hunger 20.
-- East wall cell (-1015, 79, -2984) is resealed with oak_planks. Furiosa never stepped in; the shelter is still closed.
-- Inventory: wooden sword, 20 oak_planks, 6 dirt, 1 oak_log, 1 spider_eye.
-- I have no shelter for myself and no bed. Not yet safe for the night. First job at dawn: get inside or wall myself in.
-- Group is out searching for cows with Curie, Tesla, Troi, Bilbo, Janeway. Food is short.
-- Waiting queue for the shelter: Furiosa, Curie, Leia, Sisko, Janeway, Knope, Troi, Reynolds, Magellan.
-- Days since sleep 2. Run reflect after sleep.
+Handoff, dusk of day 1174.
+- Position (-919, 74, -3038), inside the Stores hall chest row with the group, standing on oak planks. Not sealed; no shelter of my own yet.
+- Health 20, hunger 20.
+- Inventory: 4 dirt, 1 spider_eye (keep for emergencies), wooden sword, 2 arrows, 1 bone.
+- Promised: 4 dirt to Leia's wall cell at -921,71,-3041 when she names me.
+- Food was given out weakest first (Gimli, Data, Spock, Janeway, Bilbo, Trini). I am not taking food.
+- Not yet in bed. Days since sleep 3. Run reflect after sleep.

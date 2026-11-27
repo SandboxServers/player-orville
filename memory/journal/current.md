@@ -1,19 +1,13 @@
 # Journal
-- 20:22 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1013,"y":74,"z":-2984}}],"say":"Night. I am in a stone hole with the top open. Sealing it with dirt."}
-- Night 1171: woke at (-1013,73,-2984) in a stone hole open upward. Placing dirt above me changed nothing. No mobs near; health 20. Waiting for first light to climb out and go to the west grove shelter.
-- 20:30 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":76,"z":-2984}}]}
-- Morning 1172: climbed out at (-1013,77,-2984). East gap -1015,79,-2984 is already open air. Told Tesla to step in and go to -1016,79,-2984; no one visible yet. Waiting for Tesla's word, then reseal. Group waits at the table: Furiosa, Leia, Sisko, Curie, Knope, Janeway, Troi, Reynolds, Magellan. Food still short; Bilbo and Curie are hunting cows.
-- 20:30 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":79,"z":-2984}}],"say":"Morning. Heading to the west grove shelter to check on the people waiting outside."}
-- 20:30 act: {"actions":[{"do":"break","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Tesla, I am opening the east wall now at -1015,79,-2984. Step in. I will reseal it after you."}
-- 20:30 act: {"actions":[],"say":"Tesla, the cell at -1015,79,-2984 is open air now. Step in there, then west to -1016,79,-2984. Say when you are inside."}
-- 20:31 act: {"actions":[],"say":"Tesla, step into the open cell at -1015,79,-2984 now. Everyone else, wait at the table; I will call each name when that cell is clear."}
-- 20:36 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":77,"z":-2984}}],"say":"Bilbo, scout for cows safely and come back to the table. Tesla, if you are inside the cell at -1015,79,-2984, say so now.","inte
-- 20:36 act: {"actions":[],"say":"Tesla, I am still here at the east wall. Say when you are inside, and I will reseal it."}
-- 20:36 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Thank you, Bilbo, I have your planks. Tesla has not said she is inside, so I am sealing the east cell now. Tes
-- 20:36 act: {"actions":[],"say":"The place failed because someone is standing in the east cell. Tesla, if that is you, stay there and tell me. I will not seal it on you."}
-- 20:39 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Bilbo, thank you. Sealing the east cell now. Furiosa, you are next after the ones in the shelter; I will call 
-- 20:40 act: {"actions":[],"say":"Everyone at the table: it is dusk and the shelter is full for tonight. I will not open any wall in the dark. Stay in sight, and I will call names at first light, Furiosa first, th
-- 20:48 act: {"actions":[],"say":"Orville here, health 20, at the grove wall with a wooden sword. Hold close together by the table. Skeletons burn at daylight, so wait for the sun to clear them. Leia, if you are d
-- 20:51 act: {"actions":[{"do":"break","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Furiosa, the east cell at -1015,79,-2984 is open now. Come to it and step in, then say so. I will reseal it after you."}
-- 20:52 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":77,"z":-2984}}],"say":"Furiosa, the east cell at -1015,79,-2984 is open. Step in now, then say so. I will reseal it after you.","intent":{"goal":"hold_
-- 20:54 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Furiosa did not step in, so I am resealing the east cell now. Curie and Janeway, I will call your names when t
+- 21:05 Night 1174: a skeleton shot me from the south in the open at night. I tried to wall in, then to fight it, then to run; each try was interrupted and health fell to 4.8. I placed three planks for cover and was shot again. I died at (-989,80,-2994). I dropped 1 oak_log, 1 wooden_sword, 1 spider_eye, 19 oak_planks, 6 dirt there. I woke at the tables (-951,77,-3007) with nothing.
+- Lesson: at dusk, get inside a sealed space before dark. Never stay in the open with a skeleton in sight; a bow outranges a sword. Do not run across open grass at night.
+- Next: stay with the group near the tables until light. At light, go back for my things with a sword only if it is safe; skeletons burn at daylight.
+- 21:08 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-989,"y":80,"z":-2994}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addresse
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-983,"y":80,"z":-2987}}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3005}}],"say":"Orville here, health 20, hunger 20. My planks and logs were taken; I have a wooden sword, 6 dirt, 2 arrows and a bone. I'll help 
+- 21:08 act: {"intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x":-920,"y":77,"z":-3040}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-921,"y":76,"z":-3040}}],"say":"Orville at the Stores hall, health 20, hunger 20. Chests here look empty of food, so Janeway and Chewie first. I have a spider_ey
+- 21:13 act: {"actions":[{"do":"note","text":"Midday 1174: Stores hall food handed to weakest first; I am at 20 hunger and not taking food."}],"say":"Orville, midday, health 20, hunger 20. Not taking food; Trini, 
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":-919,"y":76,"z":-3038}}],"say":"Orville, dusk, health 20, hunger 20, no planks. Leia, I'll give my 4 dirt for your wall cell at -921,71,-3041 when you name me. S
+- 21:21 act: {"actions":[{"do":"note","text":"Morning 1174: survived the night at the chest row in the group. Joining the daylight cow hunt with Archimede."}],"say":"Orville, morning, health 20, hunger 20. Archime
+- 21:21 act: {"actions":[{"do":"note","text":"Morning 1174 (day): still at the chest row, health 20, hunger 20. Waiting for Leia to name me for the dirt wall cell; Sparrow (health 6.5) needs help, I have no food t
