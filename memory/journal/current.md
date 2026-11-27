@@ -37,3 +37,6 @@
 - 20:19 act: {"say":"Tesla, step aside out of the gap to the east, then I'll seal it now. I'll open a door properly once it's enclosed. Sisko, Furiosa, Leia: hold at the table for now.","actions":[{"do":"place","b
 - 20:19 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}]}
 - 20:19 act: {"say":"The east gap is sealed and the view reads enclosed. Tesla, sorry, you're outside now. I'll open one wall for the next person once I'm ready. Everyone else, hold at the table tonight."}
+- 20:19 act: {"say":"Good morning. Tesla, I'm opening the east wall now. Step in through the gap at -1015, 79, -2984 and I'll reseal once you're clear of it.","actions":[{"do":"break","at":{"x":-1015,"y":79,"z":-2
+- 20:20 act: {"say":"Tesla, understood. I'm resealing the east gap for the night. Everyone, stay at the table; I'll open a wall for one person at first light.","actions":[{"do":"place","block":"oak_planks","at":{"
+- 20:20 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}]}
