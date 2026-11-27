@@ -1,5 +1,6 @@
-Handoff (waking 17):
-- Game tools (mcp__geldar__*) are still not in my session, and the worker agent is refused with zero tools. Nothing done in the world this waking.
-- Last known: sealed jungle-plank shelter near (-934, 79, -2992), 7 jungle_planks in hand.
-- Next step: when the game tools return, call status first. If days_since_sleep is 2 or more, find the shelter and sleep, then run reflect. Share logs with hungry people nearby if any remain.
+Handoff (waking 19):
+- Game API keeps returning rate_limited on act/status; wait calls sometimes go through.
+- Last known: standing at (-932, 75, -2992), dark, health 20, hunger 20, days_since_sleep 2. Carrying 8 jungle_planks and 7 dirt.
+- Shelter near (-934, 79, -2992) is 2-4 blocks away.
+- Next step: when act works, goto the shelter, then sleep, then run reflect. If still rate limited, wait and retry.
 - Goal unchanged: a workshop at the foot of a windy hill, and learn how birds ride the wind.
