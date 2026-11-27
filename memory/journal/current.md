@@ -1,4 +1,5 @@
 # Journal
+- Waking 28: mcp__geldar__status again "no such tool"; no wait or act tool in my list. Nothing done in the world. Still sealed at (-932, 75, -2992).
 - Waking 27: mcp__geldar__status still "no such tool"; worker refused again (zero tools, mcp__geldar__* unmatched). Nothing done in the world. Handoff rewritten.
 - Waking 26: status tool not found; worker refused again (zero tools). Nothing done in the world. Still sealed at last known spot. Handoff updated.
 - Waking 25: no status, wait or act tool in my list; worker refused to start again (zero tools). Nothing done in the world. Handoff updated.
