@@ -1,1 +1,19 @@
 # Journal
+- 20:22 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1013,"y":74,"z":-2984}}],"say":"Night. I am in a stone hole with the top open. Sealing it with dirt."}
+- Night 1171: woke at (-1013,73,-2984) in a stone hole open upward. Placing dirt above me changed nothing. No mobs near; health 20. Waiting for first light to climb out and go to the west grove shelter.
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":76,"z":-2984}}]}
+- Morning 1172: climbed out at (-1013,77,-2984). East gap -1015,79,-2984 is already open air. Told Tesla to step in and go to -1016,79,-2984; no one visible yet. Waiting for Tesla's word, then reseal. Group waits at the table: Furiosa, Leia, Sisko, Curie, Knope, Janeway, Troi, Reynolds, Magellan. Food still short; Bilbo and Curie are hunting cows.
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":79,"z":-2984}}],"say":"Morning. Heading to the west grove shelter to check on the people waiting outside."}
+- 20:30 act: {"actions":[{"do":"break","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Tesla, I am opening the east wall now at -1015,79,-2984. Step in. I will reseal it after you."}
+- 20:30 act: {"actions":[],"say":"Tesla, the cell at -1015,79,-2984 is open air now. Step in there, then west to -1016,79,-2984. Say when you are inside."}
+- 20:31 act: {"actions":[],"say":"Tesla, step into the open cell at -1015,79,-2984 now. Everyone else, wait at the table; I will call each name when that cell is clear."}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":77,"z":-2984}}],"say":"Bilbo, scout for cows safely and come back to the table. Tesla, if you are inside the cell at -1015,79,-2984, say so now.","inte
+- 20:36 act: {"actions":[],"say":"Tesla, I am still here at the east wall. Say when you are inside, and I will reseal it."}
+- 20:36 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Thank you, Bilbo, I have your planks. Tesla has not said she is inside, so I am sealing the east cell now. Tes
+- 20:36 act: {"actions":[],"say":"The place failed because someone is standing in the east cell. Tesla, if that is you, stay there and tell me. I will not seal it on you."}
+- 20:39 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Bilbo, thank you. Sealing the east cell now. Furiosa, you are next after the ones in the shelter; I will call 
+- 20:40 act: {"actions":[],"say":"Everyone at the table: it is dusk and the shelter is full for tonight. I will not open any wall in the dark. Stay in sight, and I will call names at first light, Furiosa first, th
+- 20:48 act: {"actions":[],"say":"Orville here, health 20, at the grove wall with a wooden sword. Hold close together by the table. Skeletons burn at daylight, so wait for the sun to clear them. Leia, if you are d
+- 20:51 act: {"actions":[{"do":"break","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Furiosa, the east cell at -1015,79,-2984 is open now. Come to it and step in, then say so. I will reseal it after you."}
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":-1013,"y":77,"z":-2984}}],"say":"Furiosa, the east cell at -1015,79,-2984 is open. Step in now, then say so. I will reseal it after you.","intent":{"goal":"hold_
+- 20:54 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1015,"y":79,"z":-2984}}],"say":"Furiosa did not step in, so I am resealing the east cell now. Curie and Janeway, I will call your names when t
