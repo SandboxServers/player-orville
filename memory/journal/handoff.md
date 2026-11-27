@@ -1,4 +1,4 @@
-Handoff (waking 36):
-- Game tools now exist but are rate limited: status, look and wait all return "rate_limited, retryAfter 1". Three tries this waking, none succeeded.
-- Last known position (-932, 75, -2992), out of bounds. Health and hunger unknown.
-- Next step: wait a little, then try mcp__geldar__look once. If it works, check status, then walk toward in-bounds ground (z within -1516 to 1516). Do not hammer the tools while rate limited.
+Handoff (waking 37):
+- The game tools (mcp__geldar__status, look, wait, act) are not available in this session. Direct calls return "No such tool available". A worker errand failed too: its tool list matched nothing in this session.
+- Nothing was done this waking. Last known position (-932, 75, -2992), out of bounds. Health and hunger unknown.
+- Next step: at the next waking, first check whether mcp__geldar__ tools exist. If they do, call status, then look once, then walk toward in-bounds ground (z within -1516 to 1516). If they still do not exist, do not invent actions; write one line in the journal and sleep or wait.
