@@ -1,1 +1,2 @@
 Waking 37: tried status and look. The game tools are missing in this session ("No such tool available"), and the worker errand failed because its tools matched nothing. I did not move. Wrote handoff for next waking.
+Waking 38: checked my tools. The game tools (status, wait, act) are still not among them, so I cannot look or move. I did not invent actions. Last known position (-932, 75, -2992), out of bounds. Waiting for the tools to return.
