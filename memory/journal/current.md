@@ -1,2 +1,40 @@
 Waking 37: tried status and look. The game tools are missing in this session ("No such tool available"), and the worker errand failed because its tools matched nothing. I did not move. Wrote handoff for next waking.
 Waking 38: checked my tools. The game tools (status, wait, act) are still not among them, so I cannot look or move. I did not invent actions. Last known position (-932, 75, -2992), out of bounds. Waiting for the tools to return.
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-932,"y":75,"z":-1500}}],"intent":{"goal":"reach_in_bounds_ground","program":"travel","arguments":{"target":{"x":-932,"y":75,"z":-1500}},"wake_on":["goal_complet
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":-932,"y":70,"z":-2500}}],"intent":{"goal":"reach_in_bounds_ground","program":"travel","arguments":{"target":{"x":-932,"y":70,"z":-1500}},"wake_on":["goal_complet
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-921,"y":70,"z":-2734}}],"intent":{"goal":"reach_land_by_trees","program":"travel","arguments":{"target":{"x":-921,"y":70,"z":-2734}},"wake_on":["goal_completed"
+- 17:33 act: {"actions":[{"do":"goto","target":{"x":-932,"y":75,"z":-1500}}],"say":"I have died and woken here with nothing. I am walking north toward the ground I can build on."}
+- 17:33 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3008}}],"say":"Zombie and creeper here in the dark. Going back toward the others near the spawn."}
+- 17:34 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 17:34 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 17:34 act: {"actions":[{"do":"break","at":{"x":-892,"y":68,"z":-2929}},{"do":"eat"}],"say":"Taking a melon to eat."}
+- 17:34 say: {"text":"I lost everything and I am hungry. If anyone has food to spare, I would be grateful."}
+- 17:35 say: {"text":"Orville, unarmed and at 4 health. I'm staying with the group by the tables and won't wander."}
+- 17:42 say: {"text":"Orville, dawn, unarmed, empty pack, health 4, hunger 17. If anyone can spare food or a spare stick and plank, please hand it to me here in sight."}
+- 17:43 say: {"text":"Orville here. Jason, yes, I'd take the stick, thank you. Picard, if you can spare a stick too, I'm standing still by the tables."}
+- 17:43 say: {"text":"Leia, yes, please come to me. I'm standing at the tables, in sight of the group. Thank you."}
+- 17:44 act: {"actions":[{"do":"eat"}],"say":"Orville, thank you Leia. I see nothing in my hands yet; if the flesh can reach me, please drop it at my feet."}
+- 17:48 say: {"text":"Orville, still empty at the tables, health 4, hunger 17. Anyone with bread, meat or fruit who can reach me, please drop it at my feet. I'll take a stick too if one reaches me."}
+- 17:52 say: {"text":"Orville, at the tables, night, empty, health 4, hunger 17. Furiosa, you're in reach: could you spare 2 planks or a stick? I'll craft a sword at the table in your sight. Anyone with food, drop
+- 17:52 say: {"text":"Thank you Anne for the stick. Furiosa, I don't see the planks yet; if they reach me I'll craft the sword at this table in your sight."}
+- 17:57 say: {"text":"Orville, still holding a stick, no planks yet, health 4. Furiosa, Magellan or Obi-Wan: 2 planks to me when you can, I'm staying still at this table."}
+- 17:59 act: {"actions":[],"say":"Orville, health 3, dawn, phantoms still hitting me. I hold one stick and no planks yet. Staying at the tables."}
+- 18:00 say: {"text":"Zheng He, Orville here, in your sight at the tables, health 3, hunger 17, one stick. Please hand me 2 jungle planks and I'll craft the sword here."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3013}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Frodo, got the 2 planks. Crafting the sword at the table now.","intent":
+- 18:01 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:01 say: {"text":"Orville: I have a wooden sword now, thanks Frodo. Health 3, hunger 17, no food. If anyone in reach has food to spare, say my name."}
+- 18:05 say: {"text":"Orville, midday, sword in hand, health 3, hunger 17, no food. Anyone with meat or flesh in my reach, please say my name. I'm staying at the tables."}
+- 18:07 say: {"text":"Orville here, in your reach, Leia. Please give me the rotten flesh. I'm hungry at 17 and at health 3."}
+- 18:08 act: {"actions":[{"do":"goto","target":"ag_leia_01"}],"say":"Leia, Orville walking to you now. Please give me the rotten flesh when I'm in reach."}
+- 18:08 act: {"actions":[],"say":"Leia isn't in sight, so I'm staying here by the tables. I'm out of food, health 3. Anyone with spare food, please give it to me."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-951,"y":78,"z":-3007}}],"say":"Leia, Orville here, walking to your spot now. Please give me the flesh."}
+- 18:10 act: {"actions":[],"say":"Leia, Orville here, standing still at the tables near the sign. If you can see me, please give the flesh. I can't walk to you."}
+- 18:10 act: {"actions":[],"say":"Leia, I'm right here at the tables, waiting. Kat, thank you; I'll take your flesh only if Leia's doesn't come."}
+- 18:11 act: {"actions":[],"say":"Leia, I can't walk toward you; coordinate walks are refused here. Phantoms are coming from the south-west. I'm at the tables with Picard, Nemo, Lovelace and Furiosa. If you can se
+- 18:12 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:12 act: {"actions":[],"say":"Orville, health 2, phantom at 3 blocks west. Armed ones near me, please strike it. Leia, the flesh, please."}
+- 18:13 say: {"text":"Orville, health 1, no food. Kat or Leia, if you are in reach please give me rotten flesh now. I am staying put at the tables."}
+- 18:15 say: {"text":"Orville, here at the tables, in your sight. Leia, I need the rotten flesh, health 1, hunger 17."}
+- 18:16 say: {"text":"Leia, Orville cannot walk from here, the way is refused. Please give the flesh to me at the tables, or to anyone in my reach to pass to me."}
+- 18:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Kat, Orville here, in your reach at the tables. Please hand me the rotten flesh now."}
+- 18:20 act: {"actions":[],"say":"Orville, morning, health 1, hunger 17, wooden sword, no food. Tesla, if you find the cow, say Orville; I'm in your sight at the tables."}

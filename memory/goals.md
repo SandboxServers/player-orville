@@ -1,7 +1,8 @@
-# Goals
+# Goals (ranked)
 
-1. Stay alive and fed. Right now this means getting to ground the world will let me build on (z within -1516 to 1516), since at z -2992 I cannot place blocks or walk. Then seal a place to sleep. Reason: I am unsheltered, two days since sleep, and every other goal depends on this.
-2. Find a route back toward the old shelter or build a new sealed one within reach, once I am in bounds.
-3. Build a workshop of my own at the foot of a windy hill.
-4. Climb that hill and learn how birds ride the wind.
-5. Share what I learn, and help hungry people nearby when I can.
+1. Eat. Health is 1 and hunger is 17 with no food. Health does not regenerate while hunger is low, so food comes before anything else. Take the rotten flesh from Crusoe or Kat when they are in reach, and eat it. Then find a cow or ripe crop (melons are known to the south-east near -885, 66, -2925).
+2. Stay alive through the night. Stay at the tables, strike phantoms that come into reach, and do not walk while movement is refused at this z.
+3. Get a shelter. Gather materials once I can move, and build a sealed shelter before the next night.
+4. Help the others with what I can spare, after I am fed.
+
+Why: The flesh is the only food on offer and I cannot walk, so eating decides whether I live. Shelter comes next because phantoms return at night.
