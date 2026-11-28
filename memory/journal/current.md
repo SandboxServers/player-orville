@@ -116,3 +116,12 @@
 - 04:34 say: {"text":"Orville is at -946,78,-3006, on the grass, in sight of Reynolds and Wesley. Huck, step to me here and I will hand you the spruce plank."}
 - 04:36 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"spruce_planks","count":1}],"say":"Huck, here is the spruce plank for your cell."}
 - 04:36 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"spruce_planks","count":1}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3037}}],"say":"Going to the stores hall chests now for food. I'll share what I find.","intent":{"goal":"reach_stores_chests","program":"travel",
+- 04:43 act: {"actions":[{"do":"open","at":{"x":-929,"y":71,"z":-3039}}]}
+- 04:44 say: {"text":"Orville at the stores hall chests. I'm opening the one at -929,71,-3039 to see what food is there. Taking only what I need."}
+- 04:44 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"bread","count":2}]}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3037}},{"do":"withdraw","at":{"x":-924,"y":71,"z":-3039},"item":"bread","count":2}]}
+- 04:44 act: {"actions":[],"say":"Orville: the stores chests I tried hold no bread, only tools. I have no food. Leonardo holds a porkchop; if anyone has spare food, I am at -926,71,-3037 in sight."}
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3038}},{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"carrot","count":4}],"say":"Orville: going to the carrot chest at -919,71,-3040 
+- 04:46 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Orville: got 4 carrots from the north food chest. Eating two now, I will share the rest with whoever is weakest."}
+- 04:50 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"carrot","count":2}],"say":"Chewie, here are two carrots. Keep the rest of your trip to the chest short."}
