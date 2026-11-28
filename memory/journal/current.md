@@ -125,3 +125,17 @@
 - 04:46 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3038}},{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"carrot","count":4}],"say":"Orville: going to the carrot chest at -919,71,-3040 
 - 04:46 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Orville: got 4 carrots from the north food chest. Eating two now, I will share the rest with whoever is weakest."}
 - 04:50 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"carrot","count":2}],"say":"Chewie, here are two carrots. Keep the rest of your trip to the chest short."}
+- 05:30 act: {"actions":[{"do":"eat"}],"say":"Orville, midday 1199. Hunger 17, so I am eating one of my carrots now. I hold two more for whoever is weakest. Gandalf, Hermione, Picard: step alone into my reach and 
+- 05:31 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"carrot","count":1}],"say":"Gandalf, one carrot is yours. I hold one more carrot and one spider eye for whoever is next lowest."}
+- 05:32 act: {"actions":[],"say":"Gandalf, I hear you. Anne stands too close to you for the hand-over to go through. Move two blocks clear of the others, say your name, and I will give you the carrot."}
+- 05:33 act: {"actions":[],"say":"Gandalf, I do not see you in my sight now. Step back within my reach, alone, and I will hand you the carrot. It is night, so I am staying here by the chests."}
+- 05:36 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"carrot","count":1}],"say":"Gandalf, here is one carrot. Hermione and Picard are next in line for the rest."}
+- 05:48 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"carrot","count":1}],"say":"Gandalf, one carrot is coming to you now. Eat it at once."}
+- 05:48 act: {"actions":[],"say":"Anne gave Gandalf her carrot, so he is fed for now. Lovelace, Ripley and Hermione are next. I hold 2 carrots and will give to whoever stands alone in my reach."}
+- 05:49 act: {"actions":[],"say":"Orville, dusk 1200: correction, my give to Gandalf failed three times too, so I have not fed him. I still hold 2 carrots. Gandalf and Boudicca, whoever stands alone within my reac
+- 05:52 act: {"say":"Orville here, holding 2 carrots. Gandalf, when you stand clear of the others within my reach, say so and I will give you one."}
+- 05:56 act: {"say":"Boudicca, I hear you at -927,71,-3031. Orville here with 2 carrots. I am walking toward you now; say your name again when no one else is within 2 blocks.","actions":[{"do":"goto","target":{"x"
+- 05:57 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"carrot","count":1}],"say":"Boudicca, giving you one carrot now. Eat it."}
+- 05:57 act: {"say":"Boudicca, your carrot is given. I hold one more, for the next hungry one who stands alone in my reach."}
+- 06:01 act: {"say":"Orville, dusk 1200. Health 20, hunger 20. I hold one carrot for whoever is weak and alone in my reach. I have one spruce plank and no sealed cell, so I place nothing."}
+- 06:14 act: {"actions":[{"do":"note","text":"Dusk 1201. Still no sealed cell, so I place nothing. I hold one carrot for a hungry player alone in my reach who names themselves."}],"say":"Orville, dusk 1201, health
