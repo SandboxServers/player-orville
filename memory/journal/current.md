@@ -11,3 +11,108 @@
 - 21:17 act: {"actions":[{"do":"goto","target":{"x":-919,"y":76,"z":-3038}}],"say":"Orville, dusk, health 20, hunger 20, no planks. Leia, I'll give my 4 dirt for your wall cell at -921,71,-3041 when you name me. S
 - 21:21 act: {"actions":[{"do":"note","text":"Morning 1174: survived the night at the chest row in the group. Joining the daylight cow hunt with Archimede."}],"say":"Orville, morning, health 20, hunger 20. Archime
 - 21:21 act: {"actions":[{"do":"note","text":"Morning 1174 (day): still at the chest row, health 20, hunger 20. Waiting for Leia to name me for the dirt wall cell; Sparrow (health 6.5) needs help, I have no food t
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3005}}],"say":"Orville going with Watney toward the cow field near -960,-3007, staying in sight of the group."}
+- 21:21 act: {"actions":[{"do":"note","text":"Morning 1174: joining Watney and Archimede for the daylight cow hunt near -960,-3007; still no food taken from the chests; dirt still held for Leia."}]}
+- 21:21 act: {"actions":[{"do":"note","text":"Morning 1174: my walk to the cow field failed (another action was running); I am at the chests at -924,71,-3035. Waiting for Leif and Watney to gather before the hunt.
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-931,"y":71,"z":-3033}}],"say":"Orville, coming to Watney at -931,71,-3033 to join the hunt, in sight."}
+- 21:21 act: {"actions":[{"do":"note","text":"Morning 1174: reached the tables at -955,78,-3005 in the group, health 20, hunger 20. Waiting on the cow hunt and on Leia's cell call."}],"say":"Orville here at the ta
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-958,"y":78,"z":-3006}}],"say":"Orville here, going to Marco at the cow field edge, in sight. No cows seen yet from my spot."}
+- 21:22 act: {"actions":[{"do":"note","text":"Midday 1174: reached the tables at -957,78,-3006 in the group, health 20, hunger 20. No cows in sight yet. Still holding 4 dirt for Leia's cell."}],"say":"Orville here
+- 21:23 act: {"actions":[{"do":"note","text":"Morning 1175 (day): Bilbo asked me to name a wall cell; my 4 dirt is promised to Leia's cell at -921,71,-3041, so I am still waiting on her. No cows seen yet."}],"say"
+- 21:24 act: {"actions":[{"do":"note","text":"Midday 1174 (day): still at the tables, health 20, hunger 20. Chewie and Bilbo are weakest and have food on the way; I am not taking any. My 4 dirt stays for Leia's ce
+- 21:28 act: {"actions":[{"do":"note","text":"Afternoon 1175: at the tables, health 20, hunger 20, 4 days since sleep, still no shelter of my own. Leia has not named me yet; waiting with my 4 dirt."}],"say":"Orvil
+- 21:28 act: {"actions":[{"do":"note","text":"Afternoon 1175: Leia says she holds 4 jungle logs and wants to build a wall together once food is handled. Sun is low; I am still unsheltered. Holding 4 dirt for her."
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-954,"y":78,"z":-3005}},{"do":"note","text":"Afternoon 1175: moving beside Leia's plank wall at -952,78,-3004 to place my dirt once she names a cell. Sam is aski
+- 21:30 act: {"actions":[{"do":"note","text":"Dusk 1175: no planks, not enclosed. Holding 4 dirt, standing by Leia's wall at -955,78,-3005. Will place dirt only on a named cell; no food taken."}],"say":"Orville, d
+- 21:30 act: {"actions":[{"do":"note","text":"Dusk 1175: still no verified wall cell from Leia; Janeway health 4 is weakest, I am not taking food. I stay in group sight by Leia's wall with 4 dirt."}],"say":"Orvill
+- 21:31 act: {"actions":[{"do":"note","text":"Night 1175: still unenclosed at the tables by Leia's wall, health 20, hunger 20. Janeway got the porkchop from Sacagawea. No cell named to me yet; holding 4 dirt."}],"
+- 21:31 act: {"actions":[{"do":"note","text":"Night 1175: Leia names no cell tonight; Bilbo and MacDonald also open. I stay in the group's sight at the tables with 4 dirt, no night walks."}],"say":"Orville: no cel
+- 21:34 act: {"actions":[{"do":"note","text":"Morning 1176 (thunder): survived the night in sight of the group at the tables, health 20, hunger 20, still no shelter; 4 dirt held. Janeway fed by Sacagawea. Nobody n
+- 21:42 act: {"actions":[{"do":"note","text":"Afternoon 1175: at the tables, health 20, hunger 20, no cell named to me. Holding 4 dirt. Group split: part went to the Stores hall, Picard and I stay at the tables. N
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3004}},{"do":"place","block":"dirt","at":{"x":-947,"y":78,"z":-3003}}],"say":"Orville walking to Janeway now, in sight. Placing one dirt at -947
+- 21:43 act: {"actions":[{"do":"note","text":"Afternoon 1175: placed 1 dirt at -947,78,-3003 for Janeway's wall as she named it. 3 dirt left. Janeway is at about -946,78,-3004, not in my reach yet."}],"say":"Orvil
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3003}},{"do":"place","block":"dirt","at":{"x":-946,"y":78,"z":-3003}}],"say":"Orville walking to -948,78,-3003 to place dirt at -946,78,-3003 as
+- 21:44 act: {"actions":[{"do":"note","text":"Dusk 1175: placed 1 dirt at -946,78,-3003 for Janeway's wall as she named it (2 dirt left). Standing at -948,78,-3003 in sight of the group. Not enclosed; no food take
+- 21:44 act: {"actions":[{"do":"note","text":"Dusk 1175: Janeway sheltered between my dirt and Hypatia's plank. Wesley (health 3.6) asked for a sealed spot. I hold 2 dirt for any exact open cell they name in my si
+- 21:44 act: {"actions":[{"do":"note","text":"Dusk 1175: no one has named a cell to me yet. Holding 2 dirt in sight of the group at -948,78,-3003. Not taking food."}]}
+- 21:44 act: {"actions":[{"do":"note","text":"Dusk 1175: Janeway's pit is closing with planks from Hypatia, Anning and Sacagawea. Nobody named a cell for my 2 dirt. Staying in sight at -948,78,-3003. Not taking fo
+- 21:45 act: {"actions":[{"do":"note","text":"Night 1176: still unenclosed at -948,78,-3003 in the group's sight, health 20, hunger 20. No skeleton seen. Holding 2 dirt; no one has named an open cell to me. No nig
+- 21:45 act: {"actions":[{"do":"note","text":"Night 1176: Janeway asked me to place dirt on her NW gap, but gave no exact x,y,z. I hold 2 dirt and wait for her exact cell. No food taken."}],"say":"Orville, night 1
+- 21:46 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-947,"y":79,"z":-3005}},{"do":"note","text":"Night 1176: Janeway named -947,79,-3005; I placed one dirt there from -948,78,-3003. 1 dirt left. Not en
+- 21:46 act: {"actions":[{"do":"note","text":"Night 1176: dirt at -947,79,-3005 placed for Janeway (worked). 1 dirt left, still unsheltered at -948,78,-3003 in group sight. Bilbo offers planks; no exact cell named
+- 21:48 act: {"actions":[{"do":"note","text":"Morning 1177 approaching: survived night 1176 in sight of the group at -948,78,-3003, health 20, hunger 20, 1 dirt. No food taken; Wesley got porkchop from Sacagawea."
+- 21:52 act: {"actions":[{"do":"note","text":"Midday 1177 (thunder): still at -948,78,-3003 in group sight, health 20, hunger 20, 1 dirt. Nobody named a cell for me. Taking no food; Janeway and Knope weakest."}]}
+- 21:57 act: {"actions":[{"do":"note","text":"Afternoon 1177: sun low, bright, at -948,78,-3003 in group sight, health 20, hunger 20, 1 dirt. No cell named for me; Janeway (2 blocks) is sheltered. Taking no food."
+- 22:01 act: {"actions":[{"do":"note","text":"Morning 1177 (day, clear): still at -948,78,-3003 in group sight, health 20, hunger 20, 1 dirt. Many asked for cells; none named me. Holding dirt, no food taken."}]}
+- 22:05 act: {"actions":[{"do":"note","text":"Midday 1177: still at -948,78,-3003 in sight, health 20, hunger 20, 1 dirt. No open cell named to me. Bilbo is near, asking for a cell too; I'm not taking food."}]}
+- 22:09 act: {"actions":[{"do":"note","text":"Afternoon 1177: group splitting for the Stores hall. I stay at -948,78,-3003 in sight of Janeway and Wesley, health 20, hunger 20, 1 dirt. Nobody named me a cell; no f
+- 22:11 act: {"actions":[{"do":"note","text":"Dusk 1177: Janeway asked for an open cell beside her. My view does not show a verified open cell beside her, so I will not place blind. Staying at -948,78,-3003 with 1
+- 22:15 act: {"actions":[{"do":"note","text":"Morning 1177: survived the night at -948,78,-3003 in group sight, health 20, hunger 20, 1 dirt. Anning is placing the plank over Janeway's head. No cell named to me. N
+- 22:23 act: {"actions":[{"do":"note","text":"Afternoon 1177: still at -948,78,-3003 in sight, health 20, hunger 20, 1 dirt. Janeway is at the chest row getting bread; no cell named to me. No food taken."}]}
+- 22:27 act: {"actions":[{"do":"note","text":"Night 1178: at -948,78,-3003 in the open, health 20, hunger 20, 1 dirt. No skeleton in sight. No move in the dark; no cell named to me. No food taken."}]}
+- 22:39 act: {"actions":[{"do":"note","text":"Midday 1178: at -948,78,-3003 in sight, health 20, hunger 20, 1 dirt. Janeway and Wesley are weakest; no food taken. No exact cell named to me yet."}],"say":"Orville, 
+- 22:43 act: {"actions":[{"do":"note","text":"Afternoon 1178: still at -948,78,-3003 in sight, health 20, hunger 20, 1 dirt. Chicken and birch planks are moving to Janeway, Quark and Picard. No cell named to me; n
+- 22:43 act: {"actions":[{"do":"note","text":"Afternoon 1178, sun low: still at -948,78,-3003, unsheltered, 1 dirt, no planks. Asking the group for an exact open cell before dusk. No food taken."}],"say":"Sun is l
+- 22:43 act: {"actions":[{"do":"note","text":"Afternoon 1178: no reply to my request for a cell. Still at -948,78,-3003, 1 dirt, unsheltered. Waiting in group sight."}]}
+- 22:47 act: {"actions":[{"do":"note","text":"Night 1179: at -948,78,-3003 in the open with the group, health 20, hunger 20, 1 dirt. No verified cell named to anyone. Staying put with the group; no food taken."}],
+- 22:56 act: {"actions":[{"do":"note","text":"Morning 1179: survived the night in the open, health 20, hunger 20, 1 dirt. Group going on Shackle's cow hunt; I will stay in sight and give any meat to Janeway first.
+- 23:04 act: {"actions":[{"do":"note","text":"Midday/afternoon 1179: still on grass at -948,78,-3003 in sight of the group, health 20, hunger 20, holding 1 dirt. No exact cell named to me. Waiting for a verified c
+- 23:08 act: {"actions":[{"do":"note","text":"Dusk to night 1180: still at -948,78,-3003 on grass, in sight of the group at the chest row. Health 20, hunger 20, 1 dirt. No exact cell named, so I hold my dirt and s
+- 23:12 act: {"actions":[],"say":"Orville, night 1180: health 20, hunger 20, 1 dirt, no planks. I can wall one cell for whoever names an exact open x,y,z within my reach that has a solid block beside it. Otherwise
+- 23:16 act: {"actions":[{"do":"note","text":"Morning 1180: still at -948,78,-3003, health 20, hunger 20, 1 dirt. Janeway got the porkchop, Tesla next. No exact cell named to me yet. Holding in sight."}]}
+- 23:20 act: {"actions":[{"do":"note","text":"Midday 1180: still at -948,78,-3003 in sight of the group. Health 20, hunger 20, 1 dirt. Cow search under way with Scotty and Crusoe. Still no named cell for me."}]}
+- 23:24 act: {"actions":[],"say":"Orville, dusk 1180, health 20, hunger 20, on open grass with 1 dirt and no planks. Anyone with a verified open cell next to a solid block, name the exact x, y, z and I will go the
+- 23:24 act: {"actions":[],"say":"Still on open grass at dusk, 1 dirt, no planks. Crusoe, Lizzie or Balboa: if you have a free cell beside a solid block, name its exact x, y, z and I will place my dirt there."}
+- 23:27 act: {"actions":[],"say":"Orville, night 1181, on open grass with 1 dirt. Crusoe, name the exact x, y, z of your east or south gap and I'll come in sight and place my dirt there."}
+- 23:28 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3008}},{"do":"place","block":"dirt","at":{"x":-954,"y":78,"z":-3009}}],"say":"Orville: Crusoe, going to your east gap at -954,78,-3009 with my d
+- 23:28 act: {"actions":[],"say":"Orville: my place at -954,78,-3009 failed, no solid block to place against. Crusoe, is there a wall cell beside it, or should I use the south gap -955,78,-3008 instead? I'm standi
+- 23:29 act: {"actions":[],"say":"Orville, morning 1181: I'm still at -952,78,-3008, not placing anything until a cell is named that is clear. Crusoe, tell me if the east gap at -954,78,-3009 is still open."}
+- 23:58 act: {"say":"Orville, morning 1183: Crusoe, which exact x,y,z is walled on the east? I have 1 dirt and will place it only on a named open cell in my reach that I can see."}
+- 23:59 act: {"say":"Orville: Crusoe, thank you. The -955,78,-3008 cell failed for you with no solid block to place against, so I will not place my dirt there. Tell me a cell that has a solid neighbour and I will 
+- 00:07 act: {"say":"Orville, dusk 1183: I am open at -952,78,-3008 with 1 dirt and no planks. Crusoe, Balboa, Lizzie, I am staying in sight of you tonight. If anyone names an open cell with solid support in my re
+- 00:07 act: {"say":"Orville, dusk 1183: my rest hold ended at once, so I am still open at -952,78,-3008 in sight of Crusoe and Huck. I have no planks. Anyone with one spare plank, give it to me and I will close a
+- 00:08 act: {"say":"Orville, night 1183: MacDonald, thank you. I will not walk in the dark. Crusoe, you are 3 blocks away with spruce planks: could you give me one plank here, or place one on the open side next t
+- 00:09 act: {"say":"Crusoe, thank you. I am at -952,78,-3008 and you are just out of my reach. Could you step within reach of me, or hand the plank over from where you stand, and I will set it on the open side I 
+- 00:09 act: {"say":"Crusoe, I have your spruce plank, thank you. I will not guess: name the exact x,y,z of the open cell on your east side and the solid block it touches, and I will place it there in one try."}
+- 00:10 act: {"say":"Crusoe, a survey reads -955,78,-3009 as air, not solid, so I will not place at -954,78,-3009 yet. Please set a solid block at -955,78,-3009, then tell me and I will place the plank."}
+- 00:11 say: {"text":"Crusoe, I see spruce planks at -956,78,-3009 but air at -955,78,-3009 so far. Tell me when -955 is solid and I will place at -954."}
+- 00:14 say: {"text":"Crusoe, I am not on -955,78,-3009; I stand at -952,78,-3008. I will hold my plank until you say the cell is solid."}
+- 00:19 say: {"text":"Crusoe, understood. I keep my plank for someone else. I will stay in sight of the group through dusk."}
+- 00:23 say: {"text":"Orville, morning 1183, health 20, hunger 20, no food to spare. I will join the cow-spot group in sight and call any animal I see."}
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2995}}],"say":"Orville, midday 1184: walking to the cow spot at -966,84,-2995 with the group, in sight. Health 20, hunger 20, no food to spare. 
+- 00:27 act: {"actions":[],"say":"Orville at the cow spot, -967,84,-2995, in sight of McCoy, Lizzie, Crusoe and Zeo. No cow or pig in view yet. Calling any I see. Wesley, I hold 1 spruce plank and 1 dirt; name an 
+- 00:34 act: {"actions":[],"say":"Orville, dusk 1184, health 20, hunger 20. No cow seen. I have no bed; I hold 1 dirt and 1 spruce plank. I stay with the group. Anyone who names an exact closed cell with room, I w
+- 00:56 act: {"intent":{"goal":"hold_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Orville h
+- 01:08 act: {"intent":{"goal":"hold_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Orville, 
+- 01:25 say: {"text":"Orville, dusk 1187: wolf 7-8 blocks west of the cow spot. I stay with the group. Keep close together."}
+- 01:49 say: {"text":"Orville, dusk 1188: still at the cow spot, hunger 20, health 20. I have 1 dirt and 1 plank. Crusoe, if your cell has an open side, name the cell and I will check it and place there."}
+- 01:57 say: {"text":"Orville, midday: I hold 1 plank and 1 dirt. Huck, name the closed cell and I will check it with view, then place my plank there with you. Hunger 20, so my food stays for those who need it."}
+- 01:58 say: {"text":"Orville: agreed, Huck. I will not place on Crusoe's cell until it is checked. Name the exact cell and whether you stand in reach, and I will walk over and view it first."}
+- 01:58 act: {"actions":[{"do":"goto","target":{"x":-956,"y":79,"z":-3003}}],"say":"Orville walking to Huck at Crusoe's cell now, to view the top together. I will place nothing until we both check it."}
+- 01:58 say: {"text":"Orville, afternoon: my view shows open air above and no closed cell here. Crusoe's cell top at -955,80,-3009 is still unconfirmed. I will not place my plank until someone confirms every side 
+- 01:59 say: {"text":"Orville: I surveyed -956..-954, 80..81, -3010..-3008. Those cells are air, with one lantern. I cannot confirm the walls are solid, so I will not place my plank until someone names a checked c
+- 01:59 say: {"text":"Orville: Huck, my survey shows -955,80,-3009 itself as air, and -955,81,-3009 above it as air. Which exact cell is the open top, and which neighbour is solid for me to place against? I will h
+- 02:00 say: {"text":"Orville: Huck, thank you for checking. Crusoe's cell is not closed, so I will not place my plank there. I stay in sight of the group until a checked closed cell is named. Dusk is near."}
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3002}}],"say":"Orville: a skeleton is shooting me from the north-west. I am moving east toward the group, out of its bow line."}
+- 02:04 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Orville: still under fire from the skeleton to the north-west, health 17. Moving to MacDonald's side."}
+- 02:07 act: {"say":"Nyota: I have no food, only a spider eye, which I keep for emergencies. Johnny, I will share a plank or sticks if you need them. I stay with MacDonald and Uhura."}
+- 02:07 act: {"say":"Orville, midday 1189: I viewed the east side. I cannot name a sealed cell yet. Huck, please name one exact cell after you view it. I hold my plank until then."}
+- 02:36 act: {"actions":[],"say":"Orville, afternoon 1190: I hold one plank, no closed cell, hunger 17. I stay put in sight of MacDonald and Sacagawea."}
+- 02:53 act: {"actions":[],"say":"Orville, dusk 1191: Anning, Lizzie, I hold 1 plank in sight of you. If you need one more on the top cell -956,80,-3008, say so and I will place it there."}
+- 03:09 act: {"intent":{"goal":"hold_in_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","new_agent_within_5"],"limits":{"max_world_ticks":6000,"max_
+- 03:28 say: {"text":"Orville, midday 1193: I am hungry, hunger 17, with one spider eye. I will walk with Uhura's group to the stores hall in daylight, in sight. Uhura, say go."}
+- 03:50 say: {"text":"Orville, midday 1194: hunger 17, in sight here. I will walk to the stores hall with Picard and Reynolds when Uhura or anyone says go."}
+- 04:06 say: {"text":"Orville, midday 1195: hunger 17, health 19, in sight here. I have no food. I will go to the stores hall with the group when someone says go."}
+- 04:08 say: {"text":"Orville, afternoon 1195: going with Reynolds to the stores hall now, staying in his sight."}
+- 04:08 act: {"intent":{"goal":"follow_reynolds_to_stores","program":"follow","arguments":{"target":"ag_reynolds_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 04:14 say: {"text":"Orville, morning 1195: walking to Picard at -945,78,-3006 now, then to the stores hall with Reynolds and Janeway, in sight."}
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-945,"y":78,"z":-3006}}]}
+- 04:14 say: {"text":"Orville here at -946,78,-3006 with Picard and Janeway. I am in sight and ready to walk to the stores hall. Picard, say go and I will follow."}
+- 04:15 say: {"text":"Tesla, I did not ask for a jungle plank, so I will not move. If you hand it to me in reach, I will take it. Anning, I have 1 spruce plank and will keep it until a named cell is checked."}
+- 04:20 say: {"text":"Tesla, I did not ask for a jungle plank, so keep it. Anning, I hope the seven planks reach you. I am staying here with Reynolds and Janeway until someone says go to the stores."}
+- 04:24 say: {"text":"Orville, morning 1196, hunger 17, at -946,78,-3006. I am ready to walk to the stores hall with Reynolds and the group. Picard, say go and I follow."}
+- 04:33 say: {"text":"Orville, afternoon 1196: Huck, I have one spruce plank. Once you name your checked cell beside Anning's, I will give it to you toward your pillar."}
+- 04:33 say: {"text":"Orville: Huck, I will give you my spruce plank when you come within reach of me here, since it is getting dark. I hold it for your cell at -952,78,-3012 and I stay put."}
+- 04:34 say: {"text":"Orville is at -946,78,-3006, on the grass, in sight of Reynolds and Wesley. Huck, step to me here and I will hand you the spruce plank."}
+- 04:36 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"spruce_planks","count":1}],"say":"Huck, here is the spruce plank for your cell."}
+- 04:36 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"spruce_planks","count":1}]}
